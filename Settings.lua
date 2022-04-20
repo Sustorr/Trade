@@ -15,4 +15,4 @@ _G.Item4Amount = "";
 _G.Item5Amount = "";
 _G.Item6Amount = "";
 
-loadstring(game:HttpGet("https://pastebin.com/raw/hgX55n5z", true))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sustorr/Trade/main/Yeah.lua", true))();
