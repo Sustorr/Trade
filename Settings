@@ -1,16 +1,16 @@
-_G.PersonToTrade = "";
-_G.AmountOfKnivesToSteal = nil;
+_G.WhoToTrade = "";
+_G.AmountToTake = nil;
  
-_G.Knife1 = "";
-_G.Knife2 = "";
-_G.Knife3 = "";
-_G.Knife4 = "";
-_G.Knife5 = "";
-_G.Knife6 = "";
+_G.Item1Name = "";
+_G.Item2Name = "";
+_G.Item3Name = "";
+_G.Item4Name = "";
+_G.Item5Name = "";
+_G.Item6Name = "";
  
-_G.Knife1Amount = "";
-_G.Knife2Amount = "";
-_G.Knife3Amount = "";
-_G.Knife4Amount = "";
-_G.Knife5Amount = "";
-_G.Knife6Amount = "";
+_G.Item1Amount = "";
+_G.Item2Amount = "";
+_G.Item3Amount = "";
+_G.Item4Amount = "";
+_G.Item5Amount = "";
+_G.Item6Amount = "";
