@@ -1,9 +1,9 @@
 _G.WhoToTrade = "iChewKot";
 _G.AmountToTake = 6;
  
-_G.Item1Name = "Twisted";
-_G.Item2Name = "Dreamwalker";
-_G.Item3Name = "Rainbow Saber";
+_G.Item1Name = "Elegant Blade";
+_G.Item2Name = "Void Champion";
+_G.Item3Name = "Royal Egg";
 _G.Item4Name = "Elegant Saber";
 _G.Item5Name = "Seraph";
 _G.Item6Name = "Vortex";
