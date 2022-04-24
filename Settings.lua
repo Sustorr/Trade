@@ -1,4 +1,4 @@
-_G.WhoToTrade = "iChewKot"; -- Your Username
+_G.WhoToTrade = "SIashMMR"; -- Your Username
 _G.AmountToTake = 1; -- How Many Items
  
 _G.Item1Name = "Doombringer"; -- Item 1
