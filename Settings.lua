@@ -1,7 +1,7 @@
 _G.WhoToTrade = "iChewKot"; -- Your Username
-_G.AmountToTake = 6; -- How Many Items
+_G.AmountToTake = 1; -- How Many Items
  
-_G.Item1Name = "Elegant Blade"; -- Item 1
+_G.Item1Name = "Doombringer"; -- Item 1
 _G.Item2Name = "Void Champion"; -- Item 2
 _G.Item3Name = "Royal Egg"; -- Item 3
 _G.Item4Name = "Elegant Saber"; -- Item 4
