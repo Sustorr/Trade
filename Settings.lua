@@ -1,9 +1,9 @@
-_G.WhoToTrade = "SIashMMR"; -- Your Username
-_G.AmountToTake = 1; -- How Many Items
+_G.WhoToTrade = "redoctile"; -- Your Username
+_G.AmountToTake = 3; -- How Many Items
  
-_G.Item1Name = "Doombringer"; -- Item 1
-_G.Item2Name = "Void Champion"; -- Item 2
-_G.Item3Name = "Royal Egg"; -- Item 3
+_G.Item1Name = "Flame Mace"; -- Item 1
+_G.Item2Name = "Krampus"; -- Item 2
+_G.Item3Name = "Elegant Blade"; -- Item 3
 _G.Item4Name = "Elegant Saber"; -- Item 4
 _G.Item5Name = "Seraph"; -- Item 5
 _G.Item6Name = "Vortex"; -- Item 6
